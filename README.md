@@ -313,10 +313,6 @@ Historical performance per carrier (most predictive feature!)
 
 <div align="center">
 
-**Built with ❤️ for NexGen Logistics**
-
-*Transforming reactive operations into predictive intelligence*
-
 [⬆ Back to Top](#-nexgen-logistics---predictive-delivery-optimizer)
 
 </div>
