@@ -1,9 +1,5 @@
 # 📦 NexGen Logistics - Predictive Delivery Optimizer
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 **AI-Powered Binary Classification System for Delivery Delay Prediction**
 
 🔗 **Live Demo:** [GitHub Repository](https://github.com/Hammad-1105/OFI-Internship-Logistics-Delivery-Optimizer/tree/main)
@@ -32,18 +28,6 @@ Developed a **Binary Classification System** that predicts whether deliveries wi
 ✅ **Interactive Dashboard** - 3-tab Streamlit interface with 8+ visualizations  
 ✅ **14 Engineered Features** - Domain expertise captured in predictive signals  
 ✅ **Multi-Model Comparison** - Random Forest, XGBoost, Logistic Regression  
-
----
-
-## 📊 Performance Metrics
-
-| Model | F1 Score | ROC-AUC | Accuracy |
-|-------|----------|---------|----------|
-| **XGBoost** | **70.0%** | **76.0%** | **72.0%** |
-| Random Forest | 68.5% | 73.0% | 70.0% |
-| Logistic Regression | 55.0% | 65.0% | 58.0% |
-
-**Improvement:** 70% F1 score vs 35-41% from initial multi-class approach (+80% relative improvement)
 
 ---
 
@@ -324,46 +308,6 @@ Historical performance per carrier (most predictive feature!)
 - [ ] Dispatcher dashboard for fleet management
 - [ ] Customer-facing ETA tracker
 
----
-
-## 🤝 Contributing
-
-This project was developed for the OFI Services internship case study. For questions or suggestions:
-
-**Author:** Hammad  
-**GitHub:** [@Hammad-f105](https://github.com/Hammad-f105)  
-**LinkedIn:** [Your LinkedIn]  
-**Email:** [Your Email]
-
----
-
-## 📄 License
-
-This project is created for educational and evaluation purposes as part of the OFI Services internship selection process.
-
----
-
-## 🙏 Acknowledgments
-
-- **OFI Services** - For the challenging and realistic case study
-- **NexGen Logistics** - Fictional company inspiring this solution
-- **Open Source Community** - scikit-learn, XGBoost, Streamlit teams
-
----
-
-## 📸 Screenshots
-
-### Prediction Tool
-![Prediction Tool](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)
-*Real-time delay prediction with actionable recommendations*
-
-### Model Insights
-![Model Insights](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)
-*Feature importance and performance comparison*
-
-### Data Explorer
-![Data Explorer](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)
-*Historical trends and interactive visualizations*
 
 ---
 
